@@ -1,7 +1,7 @@
 [![Build Status](https://api.travis-ci.org/bitnami/blacksmith.svg?branch=master)](http://travis-ci.org/bitnami/blacksmith)
 
 # Blacksmith
-
+Test
 Blacksmith is a command line tool based on NodeJS designed to build third-party software and its dependencies on a Unix platform.
 
   * Compile a list of software components in a specific order.
